@@ -18,6 +18,7 @@ ScreenShots
 
 
 Packages
+
  cupertino_icons: ^1.0.2
  
  carousel_slider: ^4.2.1
